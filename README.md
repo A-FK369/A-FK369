@@ -16,8 +16,8 @@
 <!-- -->
   ![C](https://img.shields.io/badge/-C++-673AB8?style=flat-square&logo=C&logoColor=fff)
   ![Python](https://img.shields.io/badge/-Python-33999A?style=flat-square&logo=Python&logoColor=fff)  ![Django](https://img.shields.io/badge/-Django-339933?style=flat-square&logo=Django&logoColor=fff)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
   ![Linux](https://img.shields.io/badge/-Linux-000011?style=flat-square&logo=Linux&logoColor=fff)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 
 
 📅 **未来计划**
