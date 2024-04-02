@@ -1,6 +1,6 @@
 - ## Hi there 👋
 
-[中文](README.md) | [English](README.en.md)
+[中文](README.md) | [English](README-en.md)
 
   ![GitHub统计](https://github-readme-stats.vercel.app/api?username=A-FK369&count_private=true&show_icons=true)
 
