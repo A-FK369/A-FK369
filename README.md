@@ -20,7 +20,7 @@
   ![Linux](https://img.shields.io/badge/-Linux-000011?style=flat-square&logo=Linux&logoColor=fff)
 
 
-📅 **未来计划**：
+📅 **未来计划**
 
 
 
@@ -30,24 +30,23 @@
 
 
 🍓 **关于**
-<!-- 
-  - 🔭 
+<!--  
 -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-FK369&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-FK369&layout=compact)
 
   - 📫 E-mail：A-FK369 AT foxmail DOT com
-  - Bilibili：[我的B站主页](space.bilibili.com/22116539)
-  - 云村：[我的网易云音乐](music.163.com/#/artist?id=60404225)
+  - Bilibili：[我的B站主页](https://space.bilibili.com/22116539)
+  - 云村：[我的网易云音乐](https://music.163.com/#/user/home?id=449128216)
 <!--  - 👯 About me：Web、Music、-->
   - 🌐 语言偏好：English, 中文
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A-FK369)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A-FK369)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ————————————————————————————————————————————————————
   <!--
-	It is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	It is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.
 
   Here are some ideas to get you started:
 
