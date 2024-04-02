@@ -33,12 +33,12 @@
 -->
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-FK369&layout=compact)
 
-  - 📫 E-mail：A-FK369 AT foxmail DOT com
+  - 邮箱：A-FK369 AT foxmail DOT com
   - Bilibili：[我的B站主页](https://space.bilibili.com/22116539)
   - 云村：[我的网易云音乐](https://music.163.com/#/user/home?id=449128216)
   - Roadmap：[EIE沼泽风暴](https://roadmap.sh/team/progress?t=6552c77f68ca60261326cf1e)
   - 🌐 语言偏好：中文、English、日本語
-<!--  - 👯 About me：Web、Music、-->
+<!--  - 😄 About me：Web、Music、-->
 
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A-FK369)](https://github.com/ashutosh00710/github-readme-activity-graph)
