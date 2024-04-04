@@ -1,4 +1,4 @@
-- ## Hi there 👋
+ ## Hi there 👋
 
 [中文](README.md) | [English](README-en.md)
 
@@ -20,15 +20,15 @@
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 
 
-📅 **未来计划**
-
+📅 **计划**
+  - 
 
 
 🎄 **其他**
-
+  - 🍓喜欢听音乐、品茶、赏画、🎱、吃炸坤
   
 
-🍓 **关于**
+💬 **关于**
 <!--  
 -->
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-FK369&layout=compact)
