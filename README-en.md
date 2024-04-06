@@ -37,7 +37,7 @@
 
   - 📫 E-mail：A-FK369 AT foxmail DOT com
   - BiliBili：[my bilibili homepage](https://space.bilibili.com/22116539)
-  - 云村：[SЖZ](https://music.163.com/#/user/home?id=449128216)
+  - NetEase Cloud Music：[SЖZ](https://music.163.com/#/user/home?id=449128216)
   - Roadmap：[EIE沼泽风暴](https://roadmap.sh/team/progress?t=6552c77f68ca60261326cf1e)
   - 🌐 Language：中文、English、日本語
 <!--  - 👯 About me：Web、Music、-->
