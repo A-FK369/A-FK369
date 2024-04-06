@@ -1,4 +1,4 @@
- ##  Hi there 👋
+##  看看我呀看看我 👋
 
 [中文](README.md) | [English](README-en.md)
 
