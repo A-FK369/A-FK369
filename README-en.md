@@ -21,14 +21,16 @@
 
 
 📅 **Plan**
-
+  - Energy storage technology
+  - Agricultural automation
+  - Energy management
 
 
 🎄 **Other**
 
   
 
-🍓 **About**
+💬 **About**
 <!--  
 -->
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-FK369&layout=compact)
