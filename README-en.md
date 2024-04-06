@@ -1,4 +1,4 @@
-- ### Hi there 👋
+## Hi there 👋
 
 [English](README-en.md) | [中文](README.md)
 
