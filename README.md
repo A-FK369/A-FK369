@@ -1,36 +1,7 @@
 <!DOCTYPE html>
-<!-- center -->
 <html>
 <head>
   <style>
-    #ce {
-      float: right;
-      width: 120px;
-      margin: 0 0 15px 20px;
-      padding: 15px;
-      text-align: ;
-    }
-    #hd{
-      border-radius: 50%;
-    }
-    .wrap {
-        display: flex;
-        align-items: center;
-    }
-    .item {
-        padding: 0 10px;
-    }
-    .item:last-child {
-        margin-left: auto;
-        margin-right: 20px;
-    }
-    .parent{
-      position: relative;
-    }
-    .block{
-      position: absolute;
-      right: 0;
-    }
     .image {
       width: 50%;
       height: auto;
@@ -42,14 +13,18 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      width: 90%;">  <!--wrap block-->
+      width: 100%;">  <!--wrap block-->
     <div class="image">
-      <h2>&nbsp;&nbsp;&nbsp;&nbsp;圆圆的眼睛~看看我呀 看看我 👋</h2>
+      <h2>&nbsp;&nbsp;&nbsp;&nbsp;👋 圆圆的眼睛~看看我呀 看看我</h2>
     </div>
     <div class="image">
-      <img src="https://komarev.com/ghpvc/?username=A-FK369&style=flat#pic_center">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://komarev.com/ghpvc/?username=A-FK369&style=flat#pic_center">&nbsp;&nbsp;
     </div>
   </div>
+</body>
+</html>
+
+[中文](README.md) | [English](README-en.md)
   <div align="center">
     <h3>这里是 A-FK369</h3>
     <div>
@@ -57,26 +32,14 @@
     </div>
   </div>
 
-
-
-<p align='right'><h2><img src="https://komarev.com/ghpvc/?username=A-FK369&style=flat#pic_center">&nbsp;&nbsp;&nbsp;&nbsp;</h2></p>
-</body>
-</html>
-
-[中文](README.md) | [English](README-en.md)
-
   ![GitHub统计](https://github-readme-stats.vercel.app/api?username=A-FK369&count_private=true&show_icons=true)
-
 
 
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=A-FK369&style=flat#pic_center) -->
 
 
+🌟 **技能**<!-- -->
 
-
-
-🌟 **技能**
-<!-- -->
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
   ![C](https://img.shields.io/badge/-C++-673AB8?style=flat-square&logo=C&logoColor=fff)
@@ -85,19 +48,18 @@
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 
 
-📅 **计划**
+📅 **计划**<!-- -->
   - 储能技术
   - 农业自动化
   - 能源管理
 
 
-🎄 **其他**
+🎄 **其他**<!-- -->
   - 🍓我喜欢听音乐、品茶、赏画、🎱、吃炸坤
   
 
-💬 **关于**
-<!--  -->
-   
+💬 **关于**<!-- -->
+
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-FK369&layout=compact)
 
   <p align='left'>
@@ -125,7 +87,7 @@
 ————————————————————————————————————————————————————
   <!--
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true">
-    <h2>&nbsp;&nbsp;&nbsp;&nbsp;看看我呀看看我 👋</h2>
+    
 
   - 小电视：[我的B站主页]()
   - 云村：[我的网易云音乐](https://music.163.com/#/user/home?id=449128216)
