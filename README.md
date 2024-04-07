@@ -1,22 +1,15 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
   <div style="
       display: flex;
       justify-content: space-between;
       align-items: center;
       width: 100%;">  <!--wrap block-->
-    <div class="image">
+    <div>
       <h2>&nbsp;&nbsp;&nbsp;&nbsp;👋 圆圆的眼睛~看看我呀 看看我</h2>
     </div>
-    <div class="image">
+    <div>
       <img src="https://komarev.com/ghpvc/?username=A-FK369&style=flat#pic_center">&nbsp;&nbsp;
     </div>
   </div>
-</body>
-</html>
 
 [中文](README.md) | [English](README-en.md)
   <div align="center">
@@ -51,7 +44,7 @@
 
 
 🎄 **其他**<!-- -->
-  - 🍓我喜欢听音乐、品茶、赏画、🎱、吃炸坤
+  - 🍓听音乐、品茶、赏画、🎱、吃炸坤
   
 
 💬 **关于**<!-- -->
@@ -67,10 +60,9 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-FK369&layout=compact)
 
 
-  - 邮箱：tk_54080302 AT outlook DOT com
   - Roadmap：[EIE沼泽风暴](https://roadmap.sh/team/progress?t=6552c77f68ca60261326cf1e)
+  - 邮箱：tk_54080302 AT outlook DOT com
   - 🌐 语言偏好：中文、English、日本語
-<!--  - 😄 About me：Web、Music、-->
 
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A-FK369&theme=gotham&hide_title=true&hide_border=true&bg_color=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -102,4 +94,4 @@
   - 👀 I’m interested in AI
   - 🌱 I’m currently Working on ComfyUI
   - 💞️ I’m looking to collaborate on ...
-    -->
+-->
