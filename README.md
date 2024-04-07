@@ -3,12 +3,8 @@
       justify-content: space-between;
       align-items: center;
       width: 100%;">  <!--wrap block-->
-    <div>
       <h2>&nbsp;&nbsp;&nbsp;&nbsp;👋 圆圆的眼睛~看看我呀 看看我</h2>
-    </div>
-    <div>
       <img src="https://komarev.com/ghpvc/?username=A-FK369&style=flat#pic_center">&nbsp;&nbsp;
-    </div>
   </div>
 
 [中文](README.md) | [English](README-en.md)
@@ -61,7 +57,7 @@
 
 
   - Roadmap：[EIE沼泽风暴](https://roadmap.sh/team/progress?t=6552c77f68ca60261326cf1e)
-  - 邮箱：tk_54080302 AT outlook DOT com
+  - 📫 邮箱：tk_54080302 AT outlook DOT com
   - 🌐 语言偏好：中文、English、日本語
 
 
