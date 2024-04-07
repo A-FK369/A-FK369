@@ -39,8 +39,14 @@
 
 
 🌟 **技能**<!-- -->
-
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <div>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
+    <img alt="C" src="https://img.shields.io/badge/-C++-673AB8?style=flat-square&logo=C&logoColor=fff">
+    <img alt="Python" src="https://img.shields.io/badge/-Python-33999A?style=flat-square&logo=Python&logoColor=fff">
+    <img alt="Django" src="https://img.shields.io/badge/-Django-339933?style=flat-square&logo=Django&logoColor=fff">
+    <img alt="Linux" src="https://img.shields.io/badge/-Linux-000011?style=flat-square&logo=Linux&logoColor=fff">
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff">
+  </div>
 
   ![C](https://img.shields.io/badge/-C++-673AB8?style=flat-square&logo=C&logoColor=fff)
   ![Python](https://img.shields.io/badge/-Python-33999A?style=flat-square&logo=Python&logoColor=fff)  ![Django](https://img.shields.io/badge/-Django-339933?style=flat-square&logo=Django&logoColor=fff)
