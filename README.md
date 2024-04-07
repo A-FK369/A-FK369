@@ -3,10 +3,13 @@
       justify-content: space-between;
       align-items: center;
       width: 100%;">  <!--wrap block-->
-      <b>&nbsp;&nbsp;&nbsp;&nbsp;圆圆的眼睛~ 看看我呀 看看我 👋</b>&nbsp;&nbsp;
-      <img src="https://komarev.com/ghpvc/?username=A-FK369&style=flat#pic_center">&nbsp;&nbsp;
+      <h2 style="
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;<b>圆 圆 的 眼 睛~~ 看看我呀看看我 👋</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+	  <img src="https://komarev.com/ghpvc/?username=A-FK369&style=flat"> &nbsp;&nbsp; </h2>
   </div>
-<hr>
 
 [中文](README.md) | [English](README-en.md)
   <div align="center">
@@ -65,7 +68,7 @@
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A-FK369&theme=gotham&hide_title=true&hide_border=true&bg_color=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-————————————————————————————————————————————————————
+<hr>
   <!--
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true">
 
