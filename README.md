@@ -3,8 +3,7 @@
       justify-content: space-between;
       align-items: center;
       width: 100%;">  <!--wrap block-->
-      <h2>&nbsp;&nbsp;&nbsp;&nbsp;👋 圆圆的眼睛~看看我呀 看看我</h2>
-      <img src="https://komarev.com/ghpvc/?username=A-FK369&style=flat#pic_center">&nbsp;&nbsp;
+      <a>&nbsp;&nbsp;&nbsp;&nbsp;👋 圆圆的眼睛~看看我呀 看看我</a><img src="https://komarev.com/ghpvc/?username=A-FK369&style=flat#pic_center">&nbsp;&nbsp;
   </div>
 
 [中文](README.md) | [English](README-en.md)
@@ -24,11 +23,11 @@
 🌟 **技能**<!-- -->
   <div>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
-    <img alt="C" src="https://img.shields.io/badge/-C++-673AB8?style=flat-square&logo=C&logoColor=fff">
-    <img alt="Python" src="https://img.shields.io/badge/-Python-33999A?style=flat-square&logo=Python&logoColor=fff">
-    <img alt="Django" src="https://img.shields.io/badge/-Django-339933?style=flat-square&logo=Django&logoColor=fff">
-    <img alt="Linux" src="https://img.shields.io/badge/-Linux-000011?style=flat-square&logo=Linux&logoColor=fff">
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff">
+    <img alt="C" src="https://img.shields.io/badge/-C++-673AB8?style=flat&logo=C&logoColor=fff">
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3377AA?style=flat&logo=Python&logoColor=fff">
+    <img alt="Django" src="https://img.shields.io/badge/-Django-349933?style=flat&logo=Django&logoColor=fff">
+    <img alt="Linux" src="https://img.shields.io/badge/-Linux-223344?style=flat&logo=Linux&logoColor=fff">
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=fff">
   </div>
 
 
