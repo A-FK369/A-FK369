@@ -1,15 +1,13 @@
-  <div style="
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      width: 100%;">  <!--wrap block-->  </div>
+  <div>  <!--wrap block-->
       <h2 style="
       display: flex;
       justify-content: space-between;
       align-items: center;
-      width: 100%;"> &nbsp;&nbsp; <b>圆 圆 的 眼 睛~~ 看看我呀 看看我 👋</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-	  <img src="https://komarev.com/ghpvc/?username=A-FK369&style=flat"> &nbsp;&nbsp; </h2>
-
+      width: 100%;"> &nbsp;&nbsp;
+	<b>圆 圆 的 眼 睛~~ 看看我呀 看看我 👋</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+	<img src="https://komarev.com/ghpvc/?username=A-FK369&style=flat"> &nbsp;&nbsp;
+      </h2>
+  </div>
 
 [中文](README.md) | [English](README-en.md)
   <div align="center">
