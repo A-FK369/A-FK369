@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-.image {width: 50%; height: auto;}
-</style>
 </head>
 <body>
   <div style="
@@ -59,15 +56,15 @@
 
 💬 **关于**<!-- -->
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-FK369&layout=compact)
-
   <p align='left'>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://space.bilibili.com/22116539"><img alt="我的B站主页" width="100" height="55" src="https://i0.hdslb.com/bfs/archive/c8fd97a40bf79f03e7b76cbc87236f612caef7b2.png" style="background-color: #00ADE7; border-radius: 48px;"></a>
+    <a href="https://music.163.com/#/user/home?id=449128216"><img src="http://p4.music.126.net/0BjeSe3i_xSi9VnJYNLWEg==/109951169379635921.jpg?param=50y50" style="border-radius:50%;"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://music.163.com/#/user/home?id=449128216"><img src="http://p4.music.126.net/0BjeSe3i_xSi9VnJYNLWEg==/109951169379635921.jpg?param=50y50" style="border-radius: 48%;"></a>
+    <a href="https://space.bilibili.com/22116539"><img alt="我的B站主页" width="100" height="55" src="https://i0.hdslb.com/bfs/archive/c8fd97a40bf79f03e7b76cbc87236f612caef7b2.png" style="background-color:#00ADE7; border-radius: 48px;"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
   </p>
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-FK369&layout=compact)
 
 
   - 邮箱：tk_54080302 AT outlook DOT com
@@ -82,7 +79,10 @@
 ————————————————————————————————————————————————————
   <!--
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true">
-    
+
+    <style>
+.image {width: 50%; height: auto;}
+</style>
 
   - 小电视：[我的B站主页]()
   - 云村：[我的网易云音乐](https://music.163.com/#/user/home?id=449128216)
