@@ -70,12 +70,6 @@
   <!--
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true">
 
-    <style>
-.image {width: 50%; height: auto;}
-</style>
-
-  - 小电视：[我的B站主页]()
-  - 云村：[我的网易云音乐](https://music.163.com/#/user/home?id=449128216)
 
 	It is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.
 
