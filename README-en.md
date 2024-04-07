@@ -35,7 +35,7 @@
 -->
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-FK369&layout=compact)
 
-  - 📫 E-mail：A-FK369 AT foxmail DOT com
+  - 📫 E-mail：tk_54080302 AT outlook DOT com
   - BiliBili：[my bilibili homepage](https://space.bilibili.com/22116539)
   - NetEase Cloud Music：[SЖZ](https://music.163.com/#/user/home?id=449128216)
   - Roadmap：[EIE沼泽风暴](https://roadmap.sh/team/progress?t=6552c77f68ca60261326cf1e)
