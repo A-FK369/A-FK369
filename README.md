@@ -2,7 +2,7 @@
 <html>
 <head>
 <style>
-  .image {width: 50%; height: auto;}
+.image {width: 50%; height: auto;}
 </style>
 </head>
 <body>
@@ -46,6 +46,7 @@
   </div>
 
 
+
 📅 **计划**<!-- -->
   - 储能技术
   - 农业自动化
@@ -62,18 +63,14 @@
 
   <p align='left'>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://space.bilibili.com/22116539"><img alt="B站 b站" width="100" height="55" src="https://i0.hdslb.com/bfs/archive/c8fd97a40bf79f03e7b76cbc87236f612caef7b2.png" style="background-color: #00ADE7; border-radius: 48px;"></a>
+    <a href="https://space.bilibili.com/22116539"><img alt="我的B站主页" width="100" height="55" src="https://i0.hdslb.com/bfs/archive/c8fd97a40bf79f03e7b76cbc87236f612caef7b2.png" style="background-color: #00ADE7; border-radius: 48px;"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://music.163.com/#/user/home?id=449128216"><img src="http://p4.music.126.net/0BjeSe3i_xSi9VnJYNLWEg==/109951169379635921.jpg?param=50y50" style="border-radius: 48%;"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    
-
   </p>
 
 
   - 邮箱：tk_54080302 AT outlook DOT com
-
-
   - Roadmap：[EIE沼泽风暴](https://roadmap.sh/team/progress?t=6552c77f68ca60261326cf1e)
   - 🌐 语言偏好：中文、English、日本語
 <!--  - 😄 About me：Web、Music、-->
