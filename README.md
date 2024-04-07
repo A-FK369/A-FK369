@@ -1,12 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    .image {
-      width: 50%;
-      height: auto;
-    }
-  </style>
+<style>
+  .image {width: 50%; height: auto;}
+</style>
 </head>
 <body>
   <div style="
@@ -48,11 +45,6 @@
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff">
   </div>
 
-  ![C](https://img.shields.io/badge/-C++-673AB8?style=flat-square&logo=C&logoColor=fff)
-  ![Python](https://img.shields.io/badge/-Python-33999A?style=flat-square&logo=Python&logoColor=fff)  ![Django](https://img.shields.io/badge/-Django-339933?style=flat-square&logo=Django&logoColor=fff)
-  ![Linux](https://img.shields.io/badge/-Linux-000011?style=flat-square&logo=Linux&logoColor=fff)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-
 
 📅 **计划**<!-- -->
   - 储能技术
@@ -70,9 +62,9 @@
 
   <p align='left'>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://space.bilibili.com/22116539"><img alt="B站 b站" width="120" height="60" src="//i0.hdslb.com/bfs/archive/c8fd97a40bf79f03e7b76cbc87236f612caef7b2.png" style="background-color: #00ADE7; border-radius: 48px;"></a>
+    <a href="https://space.bilibili.com/22116539"><img alt="B站 b站" width="100" height="55" src="https://i0.hdslb.com/bfs/archive/c8fd97a40bf79f03e7b76cbc87236f612caef7b2.png" style="background-color: #00ADE7; border-radius: 48px;"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://music.163.com/#/user/home?id=449128216"><img src="http://p4.music.126.net/0BjeSe3i_xSi9VnJYNLWEg==/109951169379635921.jpg?param=40y40" style="border-radius: 50%;"></a>
+    <a href="https://music.163.com/#/user/home?id=449128216"><img src="http://p4.music.126.net/0BjeSe3i_xSi9VnJYNLWEg==/109951169379635921.jpg?param=50y50" style="border-radius: 48%;"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     
 
