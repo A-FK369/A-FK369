@@ -3,9 +3,9 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      width: 100%;"> &nbsp;&nbsp;
-	<b>圆 圆 的 眼 睛~~ 看看我呀 看看我 👋</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-	<img src="https://komarev.com/ghpvc/?username=A-FK369&style=flat"> &nbsp;&nbsp;
+      width: 100%;">
+	      <b>圆 圆 的 眼 睛~~ 看看我呀 看看我👋</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+	      <img src="https://komarev.com/ghpvc/?username=A-FK369&style=flat"> &nbsp;
       </h2>
   </div>
 
