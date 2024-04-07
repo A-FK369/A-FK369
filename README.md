@@ -3,8 +3,10 @@
       justify-content: space-between;
       align-items: center;
       width: 100%;">  <!--wrap block-->
-      <a>&nbsp;&nbsp;&nbsp;&nbsp;👋 圆圆的眼睛~看看我呀 看看我</a><img src="https://komarev.com/ghpvc/?username=A-FK369&style=flat#pic_center">&nbsp;&nbsp;
+      <b>&nbsp;&nbsp;&nbsp;&nbsp;圆圆的眼睛~ 看看我呀 看看我 👋</b>&nbsp;&nbsp;
+      <img src="https://komarev.com/ghpvc/?username=A-FK369&style=flat#pic_center">&nbsp;&nbsp;
   </div>
+<hr>
 
 [中文](README.md) | [English](README-en.md)
   <div align="center">
