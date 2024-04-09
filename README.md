@@ -5,7 +5,7 @@
       align-items: center;
       width: 100%;">
 	      <b>圆 圆 的 眼 睛~~ 看看我呀 看看我👋</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-	      <img src="https://komarev.com/ghpvc/?username=A-FK369&style=flat"> &nbsp;
+	      <img src="https://komarev.com/ghpvc/?username=A-FK369&style=flat" height="18px"> &nbsp;
       </h2>
   </div>
 
@@ -65,14 +65,14 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A-FK369&theme=gotham&hide_title=true&hide_border=true&bg_color=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 <hr>
-  <!--
+<div align="center" ><img height="5px" src="https://profile-counter.glitch.me/A-FK369/count.svg"/></div>
+
+<!--
     <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true">
 
 
 	It is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.
-
   Here are some ideas to get you started:
 
   - 🔭 I’m currently working on ...
