@@ -15,8 +15,8 @@
     <div>
       <img src="http://p1.music.126.net/TVd3imTPRcuCHEnLSGilCA==/109951163106728938.jpg?param=500y280" alt="图片" style="width: 500px; height: 240px;">
     </div>
-    <img height="130px" src="https://github-readme-stats.vercel.app/api?username=A-FK369&hide_title=true&count_private=true&theme=dark&bg_color=28,e96443,c64dff&title_color=fff&text_color=fff"/>
-    <img height="130px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=A-FK369&hide_title=true&layout=compact&theme=dark&text_color=fff&bg_color=32,c74def,50ccdd"/>
+    <img height="130px" src="https://github-readme-stats.vercel.app/api?username=A-FK369&hide_title=true&count_private=true&hide_border=true&theme=dark&bg_color=28,e96443,c64dff&title_color=fff&text_color=fff"/>
+    <img height="130px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=A-FK369&hide_title=true&hide_border=true&layout=compact&theme=dark&text_color=fff&bg_color=32,c74def,50ccdd"/>
   </div>
 
 
@@ -72,8 +72,8 @@
 	It is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.
   Here are some ideas to get you started:
 
-https://media.giphy.com/media/enZgBY5pnllRPDZYJX/giphy.gif?cid=ecf05e471lribj5jsdo2y5620juhm1zndw9t2wf9ftock78b&ep=v1_gifs_search&rid=giphy.gif&ct=g
-https://media.giphy.com/media/bTrTnPMPq8UORCrBWG/giphy.gif?cid=ecf05e47bnzwk63egjz79cz5zlffvxrzk16jwvf6bsevxka2&ep=v1_gifs_search&rid=giphy.gif&ct=g
+
+
   - 🔭 I’m currently working on ...
   - 🌱 I’m currently learning ...
   - 👯 I’m looking to collaborate on ...
