@@ -69,8 +69,8 @@
 <div align="center" ><img height="5px" src="https://profile-counter.glitch.me/A-FK369/count.svg"/></div>
 
 <!--
-    <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true">
-
+    <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" >
+	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=hiroi-sora&hide_title=true&hide_border=true&theme=dark&bg_color=30,e96443,c64dff&title_color=fff&text_color=fff" />
 
 	It is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.
   Here are some ideas to get you started:
