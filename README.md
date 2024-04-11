@@ -16,7 +16,7 @@
       <img src="http://p1.music.126.net/TVd3imTPRcuCHEnLSGilCA==/109951163106728938.jpg?param=500y280" alt="图片" style="width: 500px; height: 240px;">
     </div>
     <img height="130px" src="https://github-readme-stats.vercel.app/api?username=A-FK369&hide_title=true&count_private=true&hide_border=true&theme=dark&bg_color=28,e96443,c64dff&title_color=fff&text_color=fff"/>
-    <img height="130px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=A-FK369&hide_title=true&hide_border=true&layout=compact&theme=dark&text_color=fff&bg_color=32,c74def,50ccdd"/>
+    <img height="130px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=A-FK369&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dark&text_color=fff&bg_color=32,c74def,50ccdd"/>
   </div>
 
 
