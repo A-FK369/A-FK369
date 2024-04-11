@@ -24,9 +24,9 @@
   <div>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
     <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-27a5a7?style=flat&logo=Arduino&logoColor=fff">
-    <img alt="C" src="https://img.shields.io/badge/-C++-673AB8?style=flat&logo=C&logoColor=fff">
     <img alt="Python" src="https://img.shields.io/badge/-Python-3377AA?style=flat&logo=Python&logoColor=fff">
     <img alt="Django" src="https://img.shields.io/badge/-Django-349933?style=flat&logo=Django&logoColor=fff">
+    <img alt="C" src="https://img.shields.io/badge/-C++-673AB8?style=flat&logo=C&logoColor=fff">
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-223344?style=flat&logo=Linux&logoColor=fff">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=fff">
   </div>
